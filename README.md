@@ -10,6 +10,6 @@ In FEniCS, any PDE can be explicitly and easily expressed in variational form us
 
 In hIPPYlib, derivative information, gradients and actions of the second derivative of objective functions (Hessian), are efficiently computed using the adjoint method while leveraging the automated symbolic differentiation and assembly of variational forms in FEniCS.
 
-For models with complex geometries, [Gmsh](https://www.gmsh.info/) can be used to create the mesh, which is then imported to FEniCS.
+For models with complex geometries, the open-source mesh geration software, [Gmsh](https://www.gmsh.info/) (Geuzaine & Remacle, 2009), can be used to create the mesh which is then imported to FEniCS.
 
 [Matplotlib](https://matplotlib.org) and [Paraview](https://www.paraview.org/) can be used to visualize the results in 2D and 3D, repsectively.
