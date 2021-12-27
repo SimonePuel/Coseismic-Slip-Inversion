@@ -5,7 +5,7 @@ This folder contains the Jupyter notebooks of the manuscript accepted in Geophys
 "**A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip**"
 
 Authors:
-Simone Puel (1,2) (spuel@utexas.edu)
+Simone Puel$^{1,2}$ (spuel@utexas.edu)
 Eldar Khattatov (3)
 Umberto Villa (4)
 Dunyu Liu (2)
