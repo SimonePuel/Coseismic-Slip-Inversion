@@ -12,4 +12,4 @@ In hIPPYlib, derivative information, gradients and actions of the second derivat
 
 For models with complex geometries, [Gmsh](https://www.gmsh.info/) can be used to create the mesh, which is then imported to FEniCS.
 
-[Matplotlib](https://matplotlib.org) and/or [Paraview](https://www.paraview.org/) can be used to visualize the results in 2D and 3D, repsectively.
+[Matplotlib](https://matplotlib.org) and [Paraview](https://www.paraview.org/) can be used to visualize the results in 2D and 3D, repsectively.
