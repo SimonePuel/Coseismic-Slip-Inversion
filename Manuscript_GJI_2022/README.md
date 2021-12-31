@@ -19,7 +19,7 @@ Thorsten W. Becker (1,2,3)
 5) Walker Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX 78712, USA
 
 
-### Description files
+### Description Jupyter notebook files
 
 - ``ManufacturedSolution_ConvergenceRate.ipynb`` - tutorial to compute the comparison and convergence rate analysis between the standard displacement formulation (DF), the mixed finite-element elastic formulation (MF) and the exact solution estimated by using the manufactured solution;
 - ``CrackII_ConvergenceRate.ipynb`` - tutorial to compute the comparison and convergence rate analysis of a shear crack mode II between the standard displacement formulation with split-node fault implementation (DF), the mixed finite-element elastic formulation with our new fault implementation (MF) and the analytic solution (Pollard & Segall, 1987); 
