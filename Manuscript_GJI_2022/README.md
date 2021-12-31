@@ -2,7 +2,7 @@
 
 This folder contains the Jupyter notebooks and the files containing the tutorials to reproduce the results in the manuscript accepted in Geophysical Journal International (GJI) in 2022 titled:
  
-"**A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip**"
+"***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip***"
 
 Authors:
 Simone Puel (1,2) (spuel@utexas.edu)
