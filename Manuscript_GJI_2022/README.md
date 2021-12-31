@@ -17,3 +17,10 @@ Thorsten W. Becker (1,2,3)
 3) Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin, Austin, TX 78712, USA 
 4) Electrical and Systems Engineering, Washington University in St. Louis, St. Louis, MO 63112, USA 
 5) Walker Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX 78712, USA
+
+
+### Description files
+
+- ``ManufacturedSolution_ConvergenceRate.ipynb`` - tutorial to compute the comparison and convergence rate analysis between the standard displacement formulation (DF), the mixed finite-element elastic formulation (MF) and the exact solution estimated by using the manufactured solution;
+- ``CrackII_ConvergenceRate.ipynb`` - tutorial to compute the comparison and convergence rate analysis of a shear crack mode II between the standard displacement formulation with split-node fault implementation (DF), the mixed finite-element elastic formulation with our new fault implementation (MF) and the analytic solution (Pollard & Segall, 1987); 
+- ``CoseismicSlip_DeterministicInversion.ipynb`` - tutorial to compute the deterministic linear inversion of the coseismic slip distribution using our new FEniCS-hIPPYlib framework. 
