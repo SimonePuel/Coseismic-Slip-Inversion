@@ -14,3 +14,7 @@ This repository contains finite-element (FE) models of earthquake problems using
 For models with complex geometries, the open-source mesh geration software, [Gmsh](https://www.gmsh.info/) (Geuzaine & Remacle, 2009), can be used to create the mesh which is then imported to FEniCS.
 
 [Matplotlib](https://matplotlib.org) and [Paraview](https://www.paraview.org/) can be used to visualize the results in 2D and 3D, repsectively.
+
+
+### 
+In the folder ``Manuscript_GJI_2022`` are contained the Jupyter notebooks of the manuscript "***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip Estimate***" submitted to Geophyisical Journal International by Puel et al. (2021).
