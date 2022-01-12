@@ -1,6 +1,6 @@
-# FEniCS-hIPPYlib framework
+# Coseismic Slip Inversion
 
-This repository contains finite-element (FE) models of earthquake problems using the open-source libraries [FEniCS](https://fenicsproject.org) and [hIPPYlib](https://hippylib.github.io) for the forward and inverse problems, respectively.
+This repository contains finite-element (FE) models of earthquake problems using the open-source libraries [FEniCS](https://fenicsproject.org) and [hIPPYlib](https://hippylib.github.io) for the forward and inverse problems, respectively. In particular, the goal is to invert surface displacement data for the coseismic slip distribution using adjoint-based optimization methods and a mixed FE elastic formulation.
 
 
 1) [FEniCS](https://fenicsproject.org) (Logg_Wells, 2010; Logg et al., 2012) is a high-level parallel FE collection of software components for automated and efficient solution of PDEs. It includes several libraries for the FE discretization, assembly and solution of linear and non-linear systems of equations. In FEniCS, any PDE can be explicitly and easily expressed in variational form using the *Unified Form Language* (Alnaes et al., 2014) Python library. This makes a problem coded in this framework transparent, reproducible, flexible for multi-physics formulations, and easy to implement. 
