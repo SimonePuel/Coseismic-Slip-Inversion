@@ -9,6 +9,11 @@ This repository contains finite-element (FE) models of earthquake problems using
 2) [hIPPYlib](https://hippylib.github.io) (Villa et al., 2016; Villa et al., 2018; Villa et al., 2021) implements state-of-the-art scalable adjoint-based algorithms for PDE-based deterministic and Bayesian inverse problems. In hIPPYlib, derivative information, gradients and actions of the second derivative of objective functions (Hessian), are efficiently computed using the adjoint method while leveraging the automated symbolic differentiation and assembly of variational forms in FEniCS.
 
 
+### Installation FEniCS and hIPPYlib libraries
+
+For the installation of the two open-source libraries and all their dependeciens, please look at the file ``FEniCS_hIPPYlib_installation.md``.
+
+
 ### Mesh Generation and Visualization
 
 For models with complex geometries, the open-source mesh geration software, [Gmsh](https://www.gmsh.info/) (Geuzaine & Remacle, 2009), can be used to create the mesh which is then imported to FEniCS.
@@ -19,3 +24,12 @@ For models with complex geometries, the open-source mesh geration software, [Gms
 ### Jupyer notebooks of GJI manuscript
 
 In the folder ``Manuscript_GJI_2022`` are contained the Jupyter notebooks of the manuscript "***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip Estimate***" submitted to Geophysical Journal International (GJI) by Puel et al. (2022).
+
+
+### Copyright
+
+
+
+If , please constanct Simone Puel (spuel@utexas.edu).
+
+
