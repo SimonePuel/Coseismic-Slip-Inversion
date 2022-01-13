@@ -9,7 +9,7 @@ This repository contains finite-element (FE) models of earthquake problems using
 2) [hIPPYlib](https://hippylib.github.io) (Villa et al., 2016; Villa et al., 2018; Villa et al., 2021) implements state-of-the-art scalable adjoint-based algorithms for PDE-based deterministic and Bayesian inverse problems. In hIPPYlib, derivative information, gradients and actions of the second derivative of objective functions (Hessian), are efficiently computed using the adjoint method while leveraging the automated symbolic differentiation and assembly of variational forms in FEniCS.
 
 
-### Installation FEniCS and hIPPYlib libraries
+### Installation of the FEniCS and hIPPYlib libraries
 
 For the installation of the two open-source libraries and all their dependeciens, please look at the file ``FEniCS_hIPPYlib_installation.md``.
 
@@ -32,5 +32,3 @@ All the material contained in this repository is open-source and can be distribu
 
 
 If you have any questions/suggestions or you are simply interested in this forward-inverse FE framework, please constact Simone Puel (spuel@utexas.edu).
-
-
