@@ -23,7 +23,7 @@ For models with complex geometries, the open-source mesh geration software, [Gms
 
 ### Jupyer notebooks of GJI manuscript
 
-In the folder ``Manuscript_GJI_2022`` there are the Jupyter notebook tutorials to reproduce the results contained in the manuscript "***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip Estimate***" submitted to Geophysical Journal International (GJI) by Puel et al. (2022).
+In the folder ``Manuscript_GJI_2022`` there are the Jupyter notebook tutorials and the files to reproduce the results contained in the manuscript titled "***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip Estimate***" submitted to Geophysical Journal International (GJI) by Puel et al. (2022).
 
 
 ### Copyright and distribution
