@@ -19,17 +19,17 @@ The [hIPPYlib](https://hippylib.github.io)-3.0.0 library depends on FEniCS versi
 * PETSc dependencies: parmetis, scotch, suitesparse, superlu_dist, ml, hypre;
 * (optional): mshr, jupyter.
 
-It can be downloaded from the hIPPYlib website or installed (https://hippylib.readthedocs.io/en/3.0.0/installation.html) directly in the FEniCS Anaconda 
+It can be downloaded from the hIPPYlib website, or installed (https://hippylib.readthedocs.io/en/3.0.0/installation.html) directly in the FEniCS Anaconda 
 environment using ``pip``. With the supported version of FEniCS and its dependencies installed on your machine, hIPPYlib can be installed via pip as follows:
 
 ``pip install hippylib --user``
 
-Otherwise, to pip install the development version of hIPPYlib use the command:
+Otherwise, to pip install the development version of hIPPYlib from the GitHub master branch use the command:
 
 ``pip install -e git+https://github.com/hippylib/hippylib.git@master#egg=hippylib``
 
 
-Finally, to activate the FEniCS-hIPPYlib environment, use the following command:
+Finally, to activate the FEniCS-hIPPYlib environment, type the following command on your terminal:
 
 ``conda activate fenicsproject``
 
