@@ -31,4 +31,4 @@ In the folder ``Manuscript_GJI_2022`` there are the Jupyter notebook tutorials a
 All the material contained in this repository is open-source and can be distributed under the GNU General Public License v3.0. 
 
 
-If you have any questions/suggestions or you are simply interested in this forward-inverse FE framework, please constact Simone Puel (spuel@utexas.edu).
+If you have any questions/suggestions or you are simply interested in this forward-inverse FE framework, please contact Simone Puel (spuel@utexas.edu).
