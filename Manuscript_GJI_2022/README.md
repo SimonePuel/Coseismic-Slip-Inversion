@@ -18,7 +18,7 @@ Thorsten W. Becker (1,2,3)
 4) Electrical and Systems Engineering, Washington University in St. Louis, St. Louis, MO 63112, USA 
 5) Walker Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX 78712, USA
 
-citation:
+To cite:
 Puel, S., Khattatov, E., Villa, U., Liu, D., U., Ghattas, O., Becker, T. W. (2022). A mixed, unified forward/inverse framework for earthquake problems: fault implementation and coseismic slip estimate. Geophysical Journal International, 230(2), 733–758. https://doi.org/10.1093/gji/ggac050.
 
 
