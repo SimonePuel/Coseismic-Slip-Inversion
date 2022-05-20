@@ -21,7 +21,7 @@ For models with complex geometries, the open-source mesh geration software, [Gms
 [Matplotlib](https://matplotlib.org) and [Paraview](https://www.paraview.org/) can be used to visualize the results in 2D and 3D, repsectively.
 
 
-### Jupyer notebooks of GJI manuscript
+### Jupyter notebooks of GJI manuscript
 
 In the folder ``Manuscript_GJI_2022`` there are the Jupyter notebook tutorials and the files to reproduce the results contained in the manuscript titled "***A Mixed, Unified Forward/Inverse Framework for Earthquake Problems: Fault Implementation and Coseismic Slip Estimate***" by Puel et al. (2022), accepted in Geophysical Journal International (GJI) on February 1st, 2022.
 
